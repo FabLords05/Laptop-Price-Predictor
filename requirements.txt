@@ -31,9 +31,9 @@ referencing==0.37.0
 requests==2.33.1
 streamlit==1.42.0
 pandas
-numpy
+numpyumpy<2.0.0
 scikit-learn==1.4.2
-joblib==1.3.2
+joblib
 rpds-py==0.30.0
 scikit-learn==1.6.1
 six==1.17.0
