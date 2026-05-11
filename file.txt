@@ -1,0 +1,10 @@
+app.py
+app.yaml
+docker-compose.yml
+Dockerfile
+file.txt
+laptop_price_model.pkl
+packages.txt
+README.md
+requirements.txt
+venv
